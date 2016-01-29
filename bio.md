@@ -11,3 +11,5 @@ Picture of Sean:
     /\
     
 ==============
+picture of tree:
+![tree](tree.png)
