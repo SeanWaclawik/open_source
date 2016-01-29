@@ -3,10 +3,13 @@ c. Reading assignments - make sure to reflect on these in a lab1.md file in your
 
 
   1.  Please read the 10 criteria of Open Source Definition http://opensource.org/osd and understand why they are important.
-        
+        What I learned from reading "The Open Source Definition":
+        The basic idea here is that if you are claiming to distribute "open source software", it really must be free. 
+        It must be really free. Free to use, free to redistribute, free to reuse, free to share. No "catches".
+
   2.  Please read Eric Raymond's article Smart Questions How to ask the question The Smart Way .
   
-        What I learned from reading "Smart Questions How to ask the question The Smart Way". 
+        What I learned from reading "Smart Questions How to ask the question The Smart Way": 
         It is important to ask questions, we learn from asking good questions. 
         Bad questions do not help us learn. Bad questions look for the "fish" without learning how to "fish".
         Bad questions waste the time of others who mostly volunteer to help answer "good" questions.
