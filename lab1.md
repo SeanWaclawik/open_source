@@ -33,8 +33,8 @@ Take a screenshot and add to lab1.md:
 
 e. Regex:
   1) 
-    ![tree](RegexOne.bmp)
+    ![regex](RegexOne.bmp)
   2) 
-    ![tree](RegexTwo.bmp)
+    ![regex](RegexTwo.bmp)
 
 
