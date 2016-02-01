@@ -21,3 +21,20 @@ c. Reading assignments - make sure to reflect on these in a lab1.md file in your
           1) in addition to listing what you have tried, list what you haven't generally tried but suspect as being a cause but unable to diagnose.
           2) the main goal of answering a question should be to teach the OP how to "fish" in regards to the question asked. answers should follow this model allowing the OP to learn, instead of getting an "answer"
           
+
+
+3.Install tree and get the directory structure.
+
+sudo apt-get install tree
+man tree
+Take a screenshot and add to lab1.md:
+
+![tree](tree.png)
+
+e. Regex:
+  1) 
+    ![tree](RegexOne.bmp)
+  2) 
+    ![tree](RegexTwo.bmp)
+
+
