@@ -7,6 +7,7 @@ c. Reading assignments - make sure to reflect on these in a lab1.md file in your
        What I learned from reading "The Open Source Definition":
         The basic idea here is that if you are claiming to distribute "open source software", it really must be free. 
         It must be really free. Free to use, free to redistribute, free to reuse, free to share. No "catches".
+        
 
   2.  Please read Eric Raymond's article Smart Questions How to ask the question The Smart Way.
   
@@ -32,13 +33,24 @@ Take a screenshot and add to lab1.md:
 
 ![tree](tree.png)
 
-e. Regex:
-  1) 
-    ![regex](RegexOne.bmp)
-  2) 
-    ![regex](RegexTwo.bmp)
+e. Regex: 
+   1) 
+  
+![regex](RegexOne.bmp)
+
+   2) 
+
+![regex](RegexTwo.bmp)
+
 
 f. Play with Snap or CSDT or Blockly:
-  ![blockly](blockly.bmp)
+
+![blockly](blockly.bmp)
   
 
+g. Reflection
+
+Start thinking/finding a problem/project that interests you
+Write a paragraph how you are doing this activity.
+
+![paragraph](problem.bmp)
