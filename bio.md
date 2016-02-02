@@ -1,15 +1,5 @@
-Name: Sean Waclawik
-email: waclas@rpi.edu
+Sean Waclawik
+waclas [at] rpi [dot] edu
 
 
-Picture of Sean:
-
-=============
-    O
-   \|/
-    |
-    /\
-    
-==============
-picture of tree:
-![tree](tree.png)
+![me](me.jpg)
