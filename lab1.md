@@ -38,4 +38,7 @@ e. Regex:
   2) 
     ![regex](RegexTwo.bmp)
 
+f. Play with Snap or CSDT or Blockly:
+  ![blockly](blockly.bmp)
+  
 
