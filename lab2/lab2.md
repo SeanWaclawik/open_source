@@ -48,5 +48,6 @@ https://github.com/rcos/Observatory	Yes	Two Clause BSD License https://en.wikipe
 
 Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.
 
-The users/customers of our project will be
-We will use the MIT license for our project. By using the MIT license, it allows for maximum freedom (as in liberty) for reuse, modification, and redistribution for all individuals, companies, governments, etc.
+I want to work on a project this semester that will help users (and myself included) to better manage finance. 
+The users/customers of my project will be those that find keeping ontop of a budget with credit cards difficult.
+I will use the MIT license for our project. By using the MIT license, it allows for maximum freedom (as in liberty) for reuse, modification, and redistribution for all individuals, companies, governments, etc.
