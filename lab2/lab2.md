@@ -24,7 +24,7 @@ Can you justify why such a license is chosen (Justification for ONE is enough).
   Microsoft .Net uses MIT license because  Microsoft wants to encourage opensource development for a cross-platform software. MS also   benefits from more users of the .Net by allowing it to be used, modified, and redistributed.
   
 Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
-  waiting for others in group
+  Rcos project "FunDo" <github.com/lusilva/fundo> using MIT license
   
 Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal
   for a developer: LGPL would be better for the developer as it does not give the explicit right for those that use LGPL licensed        software to modify proprietary components. In addition, it allows for developers to link to proprietary software without having to      disclose it, allowing for maximum flexibility for the developer.
@@ -37,7 +37,6 @@ Create a repository and choose a license
 Take 5 projects from Observatory - create a table which project has which license. for example:
 Website	License Present	License
 https://github.com/rcos/Observatory	Yes	Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.
 
 | Project        | License      | 
 | ------------- |:-------------:|
@@ -46,3 +45,8 @@ Write five sentences about choosing a project to work in this course and who wil
 | github.com/makinj/MeNext | MIT License |
 | github.com/RCOS-Grading-Server/HWserver | BSD License |
 | github.com/makinj/MeNext | MIT License |
+
+Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.
+
+The users/customers of our project will be
+We will use the MIT license for our project. By using the MIT license, it allows for maximum freedom (as in liberty) for reuse, modification, and redistribution for all individuals, companies, governments, etc.
