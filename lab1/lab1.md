@@ -54,3 +54,7 @@ Start thinking/finding a problem/project that interests you
 Write a paragraph how you are doing this activity.
 
 ![paragraph](problem.bmp)
+
+
+  
+  """consider mint"""
