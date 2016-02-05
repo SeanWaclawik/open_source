@@ -1,6 +1,6 @@
 Lab2 Sean Waclawik (waclas)
 
-Read the four criteria for Free Software
+Read the [four criteria for Free Software](http://www.gnu.org/philosophy/free-sw.html)
 
 Why it is important to choose a LICENSE?
   It is important to choose a software license because without the license, your work is inheritly copy protected and can not 
