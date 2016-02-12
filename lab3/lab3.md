@@ -1,8 +1,8 @@
 #LAB3#
 
   
-![regex](git.jpg)
+![git](git.jpg)
 
 
-![regex](gitk.jpg)
+![gitk](gitk.jpg)
 
