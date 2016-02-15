@@ -14,4 +14,5 @@
 
 
 #Story/ Team Table#
-  [link here](https://github.com/SeanWaclawik/courseproject.git)
+  [Repo link here](https://github.com/SeanWaclawik/Story.git)
+  [table6.md file](https://github.com/SeanWaclawik/Story/blob/master/Table6/table6.md)
