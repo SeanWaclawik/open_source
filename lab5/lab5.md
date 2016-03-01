@@ -25,7 +25,7 @@
     
     -- Build files have been written to: /home/sean/git_repo
 
-  ###exercise 2:###
+###exercise 2:###
   
     sean@sean-VirtualBox:~/git_repo/lab5/ex2_real$ cmake CMakeLists.txt
     -- Configuring done
@@ -38,7 +38,7 @@
 
       
   
-  ###exercise 3:###
+###exercise 3:###
   
       sean@sean-VirtualBox:~/git_repo/lab5/ex3$ cmake CMakeLists.txt 
     -- The C compiler identification is GNU 4.8.4
