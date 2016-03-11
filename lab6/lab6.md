@@ -60,3 +60,6 @@
 
 
   __Make sure to include screenshots and comments in your lab report.__
+  
+  
+  ##[ALL PART 1 HERE](https://github.com/harrij15/Lab6)##
