@@ -1,6 +1,6 @@
 # Lab 6 Community Development and Unit Testing - March 11, 2016
 
-### Part 1 - Community
+## Part 1 - Community
 1. Project selection
   1. Take a look at your five assigned projects from https://rcos.io/projects and clone them locally.
       Table 7: projects 26-30
@@ -62,4 +62,26 @@
   __Make sure to include screenshots and comments in your lab report.__
   
   
-  ##[ALL PART 1 HERE](https://github.com/harrij15/Lab6)##
+  
+  
+#[ALL PART 1 HERE](https://github.com/harrij15/Lab6)#
+  
+  
+  
+## Part 2
+1. Read the tutorial on unit tests from [pythontesting](http://pythontesting.net/framework/unittest/unittest-introduction) 
+(you will be using unit test module)
+2.  Copy [`markdown.py`](https://github.com/okken/markdown.py/blob/master/markdown.py) and [`test_markdown_unittest.py`](https://github.com/okken/markdown.py/blob/master/test_markdown_unittest.py) [okken/markdown.py](https://github.com/okken/markdown.py) and make sure that you can run them.
+3.  Add translations for:  (making sure to wrap the text correctly)
+  - `#` => `<h1>` and `</h1>` 
+  - `##` => `<h2>` and `</h2>` 
+  - `###` => `<h3>` and `</h3>` 
+  - `>` => `<blockquote>` and on the next line with no `>` end it with `</blockquote>` 
+
+  > [Some Markdown examples](https://daringfireball.net/projects/markdown/basics) and [the source](https://daringfireball.net/projects/markdown/basics.text)
+  >
+  > Look under PARAGRAPHS, HEADERS, BLOCKQUOTES for exact input and output
+  > 
+
+4. Write unit tests for the three additional constructs you did.
+5. Add your code to github, add links to your code and testcode, and show the results in lab6.md
