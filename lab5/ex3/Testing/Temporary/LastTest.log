@@ -1,0 +1,91 @@
+Start testing: Mar 01 12:27 EST
+----------------------------------------------------------
+1/5 Testing: TutorialRuns
+1/5 Test: TutorialRuns
+Command: "/home/sean/git_repo/lab5/ex3/Tutorial" "25"
+Directory: /home/sean/git_repo/lab5/ex3
+"TutorialRuns" start time: Mar 01 12:27 EST
+Output:
+----------------------------------------------------------
+The square root of 25 is 5
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Mar 01 12:27 EST
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: TutorialComp25
+2/5 Test: TutorialComp25
+Command: "/home/sean/git_repo/lab5/ex3/Tutorial" "25"
+Directory: /home/sean/git_repo/lab5/ex3
+"TutorialComp25" start time: Mar 01 12:27 EST
+Output:
+----------------------------------------------------------
+The square root of 25 is 5
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[25 is 5
+]
+"TutorialComp25" end time: Mar 01 12:27 EST
+"TutorialComp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: TutorialNegative
+3/5 Test: TutorialNegative
+Command: "/home/sean/git_repo/lab5/ex3/Tutorial" "-25"
+Directory: /home/sean/git_repo/lab5/ex3
+"TutorialNegative" start time: Mar 01 12:27 EST
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[-25 is 0
+]
+"TutorialNegative" end time: Mar 01 12:27 EST
+"TutorialNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: TutorialSmall
+4/5 Test: TutorialSmall
+Command: "/home/sean/git_repo/lab5/ex3/Tutorial" "0.0001"
+Directory: /home/sean/git_repo/lab5/ex3
+"TutorialSmall" start time: Mar 01 12:27 EST
+Output:
+----------------------------------------------------------
+The square root of 0.0001 is 0.01
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[0.0001 is 0.01
+]
+"TutorialSmall" end time: Mar 01 12:27 EST
+"TutorialSmall" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: TutorialUsage
+5/5 Test: TutorialUsage
+Command: "/home/sean/git_repo/lab5/ex3/Tutorial"
+Directory: /home/sean/git_repo/lab5/ex3
+"TutorialUsage" start time: Mar 01 12:27 EST
+Output:
+----------------------------------------------------------
+Usage: /home/sean/git_repo/lab5/ex3/Tutorial number
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Mar 01 12:27 EST
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 01 12:27 EST

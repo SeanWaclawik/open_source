@@ -1,0 +1,6 @@
+#ifndef MathFunctions_
+#define MathFunctions_
+
+double mysqrt(double x);
+
+#endif

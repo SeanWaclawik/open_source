@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sean/git_repo/lab5/ex1/TutorialConfig.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/sean/git_repo/lab5/ex1/TutorialConfig.h
+
+/home/sean/git_repo/lab5/ex1/TutorialConfig.h
+
