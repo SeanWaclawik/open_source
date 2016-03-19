@@ -85,3 +85,9 @@
 
 4. Write unit tests for the three additional constructs you did.
 5. Add your code to github, add links to your code and testcode, and show the results in lab6.md
+
+  * [markdown.py](./markdown.py)
+  * [test_markdown_unittest.py](./test_markdown_unittest.py)
+
+![unit test results](./unittest_results.png)
+
