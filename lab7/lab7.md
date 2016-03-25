@@ -2,7 +2,7 @@
 
 - One/Two page slide presentation of your project and post your slide in RCOS class channel #csci2963-01
 
-        [link here](https://docs.google.com/presentation/d/19yFc4ZK7H81wID0rD5aqw-f_UnLK0qGLjN7Kk4QWxYo/edit?usp=sharing)
+[link here](https://docs.google.com/presentation/d/19yFc4ZK7H81wID0rD5aqw-f_UnLK0qGLjN7Kk4QWxYo/edit?usp=sharing)
 
 - Graphs and Networks are ubiquitous in Scientific Computations. Networkx is an open source python package located here https://networkx.github.io/
 
