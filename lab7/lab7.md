@@ -140,6 +140,7 @@ order
 ```
 
 > 
+###Result
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ by one letter anywhere.
  ***USING OTHER***
@@ -184,4 +185,5 @@ marks
 
 
 - Create/fork a github repository for your project and work on your first commit
+
 ###[link here](https://github.com/SeanWaclawik/courseproject.git)
