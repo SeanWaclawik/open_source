@@ -2,7 +2,7 @@
 
 - One/Two page slide presentation of your project and post your slide in RCOS class channel #csci2963-01
 
-[link here](https://docs.google.com/presentation/d/19yFc4ZK7H81wID0rD5aqw-f_UnLK0qGLjN7Kk4QWxYo/edit?usp=sharing)
+###[link here](https://docs.google.com/presentation/d/19yFc4ZK7H81wID0rD5aqw-f_UnLK0qGLjN7Kk4QWxYo/edit?usp=sharing)
 
 - Graphs and Networks are ubiquitous in Scientific Computations. Networkx is an open source python package located here https://networkx.github.io/
 
@@ -37,7 +37,8 @@ problem is the shortest path algorithm implemented in networkx) [This link](http
     4.   `pound` to `marks`
 
 
-'Loaded words_dat.txt containing 5757 five-letter English words.
+###Result:
+>'Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
 853 connected components
@@ -89,12 +90,14 @@ smart
 
 Shortest path between pound and marks is
 None'
-
+>
 
 
 -   [For four letter words try 
 cold to warm , love to hate]( http://wordplay.blogs.nytimes.com/2013/06/19/climb-the-ladder/ )
 
+###Result:
+>
 Loaded words4.dat containing four-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 2174 nodes with 8040 edges
@@ -110,7 +113,7 @@ love
 hove
 have
 hate
-
+>
 
 -  Implement a variation where we consider two words (nodes) are adjacent if the number of letters that differ (not necessarily in same position) by 1. (You need to the change the edit_distance function). Repeat with the same data.
 (use multiset from collection)
