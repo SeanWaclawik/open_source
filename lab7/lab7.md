@@ -37,7 +37,7 @@ problem is the shortest path algorithm implemented in networkx) [This link](http
     4.   `pound` to `marks`
 
 
-Loaded words_dat.txt containing 5757 five-letter English words.
+'Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
 853 connected components
@@ -55,6 +55,7 @@ eider
 elder
 older
 order
+
 Shortest path between nodes and graph is
 nodes
 modes
@@ -66,6 +67,7 @@ grads
 grade
 grape
 graph
+
 Shortest path between moron and smart is
 moron
 boron
@@ -84,8 +86,9 @@ sears
 stars
 start
 smart
+
 Shortest path between pound and marks is
-None
+None'
 
 
 
