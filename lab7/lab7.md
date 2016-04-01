@@ -125,4 +125,41 @@ coder
 order
 ```
 
+
+> 
+Loaded words_dat.txt containing 5757 five-letter English words.
+Two words are connected if they differ by one letter anywhere.
+ ***USING OTHER***
+Graph has 5757 nodes with 112278 edges
+16 connected components
+Shortest path between chaos and order is
+chaos
+echos
+chore
+decor
+order
+Shortest path between nodes and graph is
+nodes
+snore
+snare
+apers
+grape
+graph
+Shortest path between moron and smart is
+moron
+moors
+morts
+smart
+Shortest path between pound and marks is
+pound
+sound
+modus
+drums
+mrads
+marks
+>
+
+
+
+
 - Create/fork a github repository for your project and work on your first commit
