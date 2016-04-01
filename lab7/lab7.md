@@ -36,8 +36,78 @@ problem is the shortest path algorithm implemented in networkx) [This link](http
     3.   `moron` to `smart`
     4.   `pound` to `marks`
 
+
+Loaded words_dat.txt containing 5757 five-letter English words.
+Two words are connected if they differ in one letter.
+Graph has 5757 nodes with 14135 edges
+853 connected components
+Shortest path between chaos and order is
+chaos
+chats
+coats
+colts
+colas
+codas
+codes
+coder
+cider
+eider
+elder
+older
+order
+Shortest path between nodes and graph is
+nodes
+modes
+moles
+molds
+golds
+goads
+grads
+grade
+grape
+graph
+Shortest path between moron and smart is
+moron
+boron
+baron
+caron
+capon
+capos
+capes
+canes
+banes
+bands
+bends
+beads
+bears
+sears
+stars
+start
+smart
+Shortest path between pound and marks is
+None
+
+
+
 -   [For four letter words try 
 cold to warm , love to hate]( http://wordplay.blogs.nytimes.com/2013/06/19/climb-the-ladder/ )
+
+Loaded words4.dat containing four-letter English words.
+Two words are connected if they differ in one letter.
+Graph has 2174 nodes with 8040 edges
+129 connected components
+Shortest path between cold and warm is
+cold
+cord
+word
+worm
+warm
+Shortest path between love and hate is
+love
+hove
+have
+hate
+
 
 -  Implement a variation where we consider two words (nodes) are adjacent if the number of letters that differ (not necessarily in same position) by 1. (You need to the change the edit_distance function). Repeat with the same data.
 (use multiset from collection)
