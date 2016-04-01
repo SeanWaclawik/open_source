@@ -42,6 +42,8 @@ problem is the shortest path algorithm implemented in networkx) [This link](http
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
 853 connected components
+>
+>
 Shortest path between chaos and order is
 chaos
 chats
@@ -57,6 +59,8 @@ elder
 older
 order
 
+>
+>
 Shortest path between nodes and graph is
 nodes
 modes
@@ -69,6 +73,8 @@ grade
 grape
 graph
 
+>
+>
 Shortest path between moron and smart is
 moron
 boron
@@ -87,7 +93,8 @@ sears
 stars
 start
 smart
-
+>
+>
 Shortest path between pound and marks is
 None'
 >
@@ -102,12 +109,16 @@ Loaded words4.dat containing four-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 2174 nodes with 8040 edges
 129 connected components
+>
+>
 Shortest path between cold and warm is
 cold
 cord
 word
 worm
 warm
+>
+>
 Shortest path between love and hate is
 love
 hove
@@ -128,19 +139,22 @@ coder
 order
 ```
 
-
 > 
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ by one letter anywhere.
  ***USING OTHER***
 Graph has 5757 nodes with 112278 edges
 16 connected components
+>
+>
 Shortest path between chaos and order is
 chaos
 echos
 chore
 decor
 order
+>
+>
 Shortest path between nodes and graph is
 nodes
 snore
@@ -148,11 +162,15 @@ snare
 apers
 grape
 graph
+>
+>
 Shortest path between moron and smart is
 moron
 moors
 morts
 smart
+>
+>
 Shortest path between pound and marks is
 pound
 sound
@@ -166,3 +184,4 @@ marks
 
 
 - Create/fork a github repository for your project and work on your first commit
+###[link here](https://github.com/SeanWaclawik/courseproject.git)
