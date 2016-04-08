@@ -42,3 +42,20 @@ For this lab, please do the following - Lab report should be in your github page
 (you can login with your facebook or google plus account or register)
 
 6.  Write a paragraph description of the status of your project - What did you do last week on your project? You only have 5 or 6 more weeks to finish your project.
+
+###This week I looked into the tools I would use for my project as well as creating a roadmap of my timeline
+
+   [email alerts for users](http://www.pythonforbeginners.com/code-snippets-source-code/using-python-to-send-email)
+   [encryption of user ID/PW](https://pythonhosted.org/passlib/)
+
+   
+   Weekly timeline:
+   3/28		Analyze in depth work required, feature list, more detailed timeline, packages/libraries required 
+   4/4 - 4/18	Core script writing
+   4/18 - 4/25	Server side work to schedule runs/ alert users
+   5/2		Add additional features/ make more generic / make webpage for project?
+   5/9		Final testing / iron out any bugs or issues
+   
+   this upcoming week I plan on completing the basic functionality of the main automation script
+
+
