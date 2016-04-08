@@ -17,6 +17,7 @@ If all goes well again, the `mongod` window should show a line about "connection
 
 Keep these two terminal windows open and running the way they are, we'll need them later.
 
+###DONE
 
 ## Checkpoint 2: Load Some Data
 
@@ -40,6 +41,8 @@ From the csci2963_mongodb_lab directory:
 ```
 
 Docs for mongoimport can be found here: https://docs.mongodb.org/manual/reference/program/mongoimport/
+
+###DONE
 
 ## Checkpoint 3: Basic Queries
 
@@ -88,6 +91,8 @@ After you are satisfied with your changes, let's dump the database back to json 
 ```
 
 Submit a PR now.
+
+###[DONE linke here](https://github.com/raymondjacobson/csci2963_mongodb_lab/pull/13)
 
 ## Checkpoint 4: Driving Queries
 
