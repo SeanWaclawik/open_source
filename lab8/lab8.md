@@ -29,11 +29,11 @@ For this lab, please do the following - Lab report should be in your github page
 
 ####![graph1](Rplot1.png)
 
-####![graph2](Rplot1.png)
+####![graph2](Rplot2.png)
 
-####![graph3](Rplot1.png)
+####![graph3](Rplot3.png)
 
-####![graph4](Rplot1.bmp)
+####![graph4](Rplot4.bmp)
 
 ####[code here](https://github.com/SeanWaclawik/open_source/blob/master/lab8/lab8.R)
 
