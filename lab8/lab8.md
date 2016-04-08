@@ -27,6 +27,17 @@ For this lab, please do the following - Lab report should be in your github page
 
 4. Try different visulaizations as done in chapter 9 of the text book. (Things have changed with R too - To load RGraphviz  go to a new Rscript window and type  `source("http://bioconductor.org/biocLite.R")`   Next, type in `biocLite("Rgraphviz")` After this you will be able to plot the graph of rules.)
 
+####![graph1](Rplot1.png)
+
+####![graph2](Rplot1.png)
+
+####![graph3](Rplot1.png)
+
+####![graph4](Rplot1.bmp)
+
+####[code here](https://github.com/SeanWaclawik/open_source/blob/master/lab8/lab8.R)
+
+
 5. (optional) Read the kaggle [R tutorial on Machine Learning](https://www.datacamp.com/courses/kaggle-tutorial-on-machine-learing-the-sinking-of-the-titanic) (Random forest is also discussed in chapter 4 of the Zhao's book)
 (you can login with your facebook or google plus account or register)
 
